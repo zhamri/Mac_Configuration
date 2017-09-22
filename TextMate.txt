@@ -1,0 +1,9 @@
+How to link TextMate & git
+==========================
+ 
+git config --global core.editor "mate -w"
+
+How to open .gitconfig
+======================
+
+git config --global -e
